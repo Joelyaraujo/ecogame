@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/cenas/preT\xEDtulo.unity"
+    guid: 9c297310243eedb408ace90ae534455a
+  - enabled: 1
+    path: "Assets/cenas/T\xEDtulo.unity"
+    guid: 927f4916cc9f619428abd86e8a5aa09d
+  - enabled: 1
+    path: Assets/cenas/Temas 1.unity
+    guid: c9879c9035311b6439739b9bfc6a4bfc
+  - enabled: 1
+    path: Assets/cenas/Lixo.unity
+    guid: 392d07d547f92c0458d213a0e03a3fa2
+  - enabled: 1
+    path: Assets/cenas/Animais.unity
+    guid: 719ff8367d2873a4cb3c95234997064e
+  - enabled: 1
+    path: Assets/cenas/Plantas.unity
+    guid: 7302c062e133d0e49b59c750652462bc
+  - enabled: 1
+    path: Assets/cenas/Agua.unity
+    guid: 9ca543237687d7f4dbb7268baee8c87c
+  - enabled: 1
+    path: "Assets/cenas/Quebra-cabe\xE7aLixo.unity"
+    guid: 0a1d2c86e68c23746b093b0529fdfe2c
+  - enabled: 1
+    path: Assets/cenas/Quebra-Animal.unity
+    guid: 0d85d40a256c89f4c8c59553923cb105
+  - enabled: 1
+    path: Assets/cenas/Quebra-Plantas.unity
+    guid: ecdb1f94f9d9bc74f82da2ea3f6660a0
+  - enabled: 1
+    path: Assets/cenas/Quebra-Agua.unity
+    guid: ce7a8bf1bb855764abfef9c2d6ca7e5b
+  - enabled: 1
+    path: Assets/cenas/Nivel LIXO.unity
+    guid: ecf801810c63e3842ad4efc30035197a
+  - enabled: 1
+    path: Assets/cenas/Nivel ANIMAIS.unity
+    guid: 4e91d990698b3864380c4b1176cbeed4
+  - enabled: 1
+    path: Assets/cenas/Nivel PLANTAS.unity
+    guid: 290145a216def034f933852505210ee4
+  - enabled: 1
+    path: Assets/cenas/Nivel AGUA.unity
+    guid: f896b745f6f38b344bf8c4d91754d520
+  - enabled: 1
+    path: Assets/cenas/Jogo.unity
+    guid: 07eafa012da021b469be4ecb61481199
+  - enabled: 1
+    path: "Assets/cenas/Jogo mem\xF3ria.unity"
+    guid: e065cc0eeac5f874889c7a18043c288d
+  - enabled: 1
+    path: Assets/cenas/JogoPlanta.unity
+    guid: 00826269cba79e54fbafd701448f064d
+  - enabled: 1
+    path: Assets/cenas/JogoAgua.unity
+    guid: 0c301b597f329e24fb36a6d57b3b53dd
+  - enabled: 1
+    path: Assets/cenas/Texto  Lixo.unity
+    guid: 6e5664bfa1aba5f448b899150524ee32
+  - enabled: 1
+    path: Assets/cenas/Texto  Animais.unity
+    guid: 2a124c435df705c48bdb10a2fdccf6bc
+  - enabled: 1
+    path: Assets/cenas/Texto  Plantas.unity
+    guid: ca8160d9ab6c71f4faf6aa6e21701a32
+  - enabled: 1
+    path: Assets/cenas/Texto  Agua.unity
+    guid: 9c539eefddff0c045a00929fa882ac46
+  - enabled: 1
+    path: Assets/cenas/1.unity
+    guid: 695966cdd96c7c24d95992ac9ea4c884
+  - enabled: 1
+    path: Assets/cenas/2.unity
+    guid: 4f44235d2cca8ca4496a811266aa54c6
+  - enabled: 1
+    path: Assets/cenas/3.unity
+    guid: 0e675807741461048a680a4b0e69a953
+  - enabled: 1
+    path: Assets/cenas/4.unity
+    guid: 4a69308389e7b61489a08ecc73df38b7
+  - enabled: 1
+    path: Assets/cenas/5.unity
+    guid: 5e72ee203f6c52845a5fc882e473f797
+  - enabled: 1
+    path: Assets/cenas/6.unity
+    guid: 599df6781325a4c4bb9b02d85341c2de
+  - enabled: 1
+    path: Assets/cenas/7.unity
+    guid: ef8570f93a98f37469bc9349afb400eb
+  - enabled: 1
+    path: Assets/cenas/8.unity
+    guid: 6617126bc7ed92646a089bb4163967d3
+  - enabled: 1
+    path: Assets/cenas/9.unity
+    guid: 773eec26622c57a41b5fa95ae5a12efa
+  - enabled: 1
+    path: Assets/cenas/10.unity
+    guid: 901297076e6bf424b8f16025b349c1ec
+  - enabled: 1
+    path: Assets/cenas/11.unity
+    guid: 55fdbdb967a3b6f44a22201eed172af3
+  - enabled: 1
+    path: Assets/cenas/12.unity
+    guid: cb68f2eb66aa99f47a4d65a7ca97a531
+  - enabled: 1
+    path: Assets/cenas/Resultado Quebra.unity
+    guid: fc979f829c3816b4f84c749812c83c44
+  - enabled: 1
+    path: Assets/cenas/Resultado.unity
+    guid: adc3c998a90c0b7459e7b465ab6220c7
